@@ -1,8 +1,6 @@
 package Lab_4;
 
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 import java.util.Scanner;
 
 public class IO_Op {
@@ -48,7 +46,16 @@ public class IO_Op {
         System.out.println("Insert double : ");
         Double a = scanner.nextDouble();
         System.out.println("The inserted number is : " + a);
+    }
 
-
+    public void writeToFile(String message, String filePath) {
+        try (
+                FileWriter fw = new FileWriter(filePath);
+                BufferedWriter bw = new BufferedWriter(fw);
+        ) {
+            bw.write(message);
+        } catch (IOException e) {
+            System.out.println(e);
+        }
     }
 }

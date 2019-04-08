@@ -5,7 +5,8 @@ public class Main {
         IO_Op io_op = new IO_Op();
 
         String text = io_op.readFromFile("src//Lab_4/read.txt");
-        System.out.println(text);
+        /**System.out.println(text);*/
         /**io_op.readFromKeyboard();*/
+        io_op.writeToFile(text,"src//Lab_4/write.txt");
     }
 }
