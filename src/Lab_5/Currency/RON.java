@@ -1,4 +1,4 @@
-package Lab_5;
+package Lab_5.Currency;
 
 public class RON extends Currency {
     public RON(float amount) {

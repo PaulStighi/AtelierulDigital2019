@@ -2,13 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42882e11-9d16-426e-aee7-dfed86460928" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lab_5/Currency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_5/EUR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_5/ExchangeDesk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_5/RON.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_5/USD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_5/Shoes/Boot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_5/Shoes/Heels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_5/Shoes/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_5/Shoes/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_5/Shoes/Running.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_5/Shoes/Shoe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_6/Leader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_6/Map/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_6/Map/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AtelierulDigital2019/Lab_5/Currency.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AtelierulDigital2019/Lab_5/EUR.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AtelierulDigital2019/Lab_5/ExchangeDesk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AtelierulDigital2019/Lab_5/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AtelierulDigital2019/Lab_5/RON.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AtelierulDigital2019/Lab_5/USD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab_5/Currency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_5/Currency/Currency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab_5/EUR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_5/Currency/EUR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab_5/ExchangeDesk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_5/Currency/ExchangeDesk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab_5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_5/Currency/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab_5/RON.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_5/Currency/RON.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab_5/USD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_5/Currency/USD.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,66 +33,35 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lab_5/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="58" lean-forward="true" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Lab_5/ExchangeDesk.java">
+        <entry file="file://$PROJECT_DIR$/src/Lab_6/Map/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="11" column="150" selection-start-line="11" selection-start-column="150" selection-end-line="11" selection-end-column="150" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lab_5/Currency.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+            <state relative-caret-position="255">
+              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
               <folding>
-                <element signature="e#168#169#0" expanded="true" />
-                <element signature="e#178#179#0" expanded="true" />
-                <element signature="e#207#208#0" expanded="true" />
-                <element signature="e#284#285#0" expanded="true" />
-                <element signature="e#321#322#0" expanded="true" />
-                <element signature="e#353#354#0" expanded="true" />
+                <element signature="e#312#329#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lab_5/RON.java">
+        <entry file="file://$PROJECT_DIR$/src/Lab_6/Map/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lab_5/USD.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lab_5/EUR.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            <state relative-caret-position="255">
+              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+              <folding>
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+                <element signature="e#273#274#0" expanded="true" />
+                <element signature="e#299#300#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -97,10 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Lab_1/Book.java" />
-        <option value="$PROJECT_DIR$/src/Lab_1/Animal.java" />
-        <option value="$PROJECT_DIR$/src/Lab_1/Cat.java" />
-        <option value="$PROJECT_DIR$/src/Basic_1/Main.java" />
         <option value="$PROJECT_DIR$/src/Lab_1/Main.java" />
         <option value="$PROJECT_DIR$/src/Lab_2/Spider.java" />
         <option value="$PROJECT_DIR$/src/Lab_2/Pet.java" />
@@ -139,6 +120,19 @@
         <option value="$PROJECT_DIR$/src/Lab_5/Currency.java" />
         <option value="$PROJECT_DIR$/src/Lab_5/Main.java" />
         <option value="$PROJECT_DIR$/src/Lab_5/ExchangeDesk.java" />
+        <option value="$PROJECT_DIR$/src/Lab_5/Currency/Main.java" />
+        <option value="$PROJECT_DIR$/src/Lab_5/Shoes/Pair.java" />
+        <option value="$PROJECT_DIR$/src/Lab_5/Shoes/Running.java" />
+        <option value="$PROJECT_DIR$/src/Lab_5/Shoes/Heels.java" />
+        <option value="$PROJECT_DIR$/src/Lab_5/Shoes/Boot.java" />
+        <option value="$PROJECT_DIR$/src/Lab_5/Shoes/Shoe.java" />
+        <option value="$PROJECT_DIR$/src/Lab_5/Shoes/Main.java" />
+        <option value="$PROJECT_DIR$/src/Lab_6/Leader.java" />
+        <option value="$PROJECT_DIR$/src/Lab_6/Leaders/Main.java" />
+        <option value="$PROJECT_DIR$/src/Lab_6/Merge/Main.java" />
+        <option value="$PROJECT_DIR$/src/Lab_6/Main.java" />
+        <option value="$PROJECT_DIR$/src/Lab_6/Map/Person.java" />
+        <option value="$PROJECT_DIR$/src/Lab_6/Map/Main.java" />
       </list>
     </option>
   </component>
@@ -156,7 +150,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -173,17 +166,26 @@
               <item name="AtelierulDigital2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="AtelierulDigital2019" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab_5" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab_6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AtelierulDigital2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AtelierulDigital2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab_6" type="462c0819:PsiDirectoryNode" />
+              <item name="Map" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555351131699" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555948382875" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -201,7 +203,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Lab_5">
+  <component name="RunManager" selected="Application.Lab_6">
     <configuration name="Lab_1" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Lab_1.Main" />
       <module name="AtelierulDigital2019" />
@@ -231,7 +233,14 @@
       </method>
     </configuration>
     <configuration name="Lab_5" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Lab_5.Main" />
+      <option name="MAIN_CLASS_NAME" value="Lab_5.Shoes.Main" />
+      <module name="AtelierulDigital2019" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab_6" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Lab_6.Map.Main" />
       <module name="AtelierulDigital2019" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -243,6 +252,7 @@
       <item itemvalue="Application.Lab_3" />
       <item itemvalue="Application.Lab_4" />
       <item itemvalue="Application.Lab_5" />
+      <item itemvalue="Application.Lab_6" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -271,7 +281,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14496644" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15100671" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -280,7 +290,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" visible="true" weight="0.25354108" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932885" visible="true" weight="0.25354108" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -314,34 +324,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Book.java" />
-    <entry file="file://$PROJECT_DIR$/out/production/AtelierulDigital2019/Lab_1/Book.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#609#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AtelierulDigital2019.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Basic_1/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/Lab_1/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#67#68#0" expanded="true" />
-            <element signature="e#118#119#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lab_1/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -638,53 +620,158 @@
     <entry file="file://$PROJECT_DIR$/src/Lab_4/write.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lab_5/USD.java">
+    <entry file="file://$PROJECT_DIR$/src/Lab_5/Currency/ExchangeDesk.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lab_5/EUR.java">
+    <entry file="file://$PROJECT_DIR$/src/Lab_5/Currency/Currency.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lab_5/RON.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lab_5/Currency.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
           <folding>
+            <element signature="e#132#133#0" expanded="true" />
             <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
             <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lab_5/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Lab_5/Currency/RON.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="58" lean-forward="true" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lab_5/ExchangeDesk.java">
+    <entry file="file://$PROJECT_DIR$/src/Lab_5/Currency/USD.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="150" selection-start-line="11" selection-start-column="150" selection-end-line="11" selection-end-column="150" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab_5/Currency/EUR.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab_5/Currency/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab_5/Shoes/Shoe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding>
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab_5/Shoes/Running.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab_5/Shoes/Heels.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab_5/Shoes/Boot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab_5/Shoes/Pair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab_5/Shoes/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab_6/Merge/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab_6/Leader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab_6/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab_6/Map/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding>
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab_6/Map/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding>
+            <element signature="e#312#329#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

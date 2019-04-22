@@ -1,4 +1,4 @@
-package Lab_5;
+package Lab_5.Currency;
 
 public abstract class Currency {
     private float amount;

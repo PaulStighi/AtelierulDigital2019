@@ -1,4 +1,4 @@
-package Lab_5;
+package Lab_5.Currency;
 
 import java.lang.reflect.InvocationTargetException;
 

@@ -1,4 +1,4 @@
-package Lab_5;
+package Lab_5.Currency;
 
 public class Main {
     public static void main(String[] args) {
