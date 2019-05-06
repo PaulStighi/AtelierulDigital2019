@@ -2,29 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42882e11-9d16-426e-aee7-dfed86460928" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lab_5/Shoes/Boot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_5/Shoes/Heels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_5/Shoes/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_5/Shoes/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_5/Shoes/Running.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_5/Shoes/Shoe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_6/Leader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_6/Map/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_6/Map/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_7/RabbitRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_7/RabbitThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AtelierulDigital2019/Lab_5/Currency.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AtelierulDigital2019/Lab_5/EUR.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AtelierulDigital2019/Lab_5/ExchangeDesk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AtelierulDigital2019/Lab_5/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AtelierulDigital2019/Lab_5/RON.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AtelierulDigital2019/Lab_5/USD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab_5/Currency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_5/Currency/Currency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab_5/EUR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_5/Currency/EUR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab_5/ExchangeDesk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_5/Currency/ExchangeDesk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab_5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_5/Currency/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab_5/RON.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_5/Currency/RON.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab_5/USD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_5/Currency/USD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab_6/Leader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_6/Leader/Leader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab_6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_6/Leader/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,33 +17,43 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Lab_6/Map/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/Lab_7/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+            <state relative-caret-position="306">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lab_7/RabbitThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
               <folding>
-                <element signature="e#312#329#0" expanded="true" />
+                <element signature="e#140#141#0" expanded="true" />
+                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#227#228#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Lab_6/Map/Person.java">
+        <entry file="file://$PROJECT_DIR$/src/Lab_7/RabbitRunnable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
-                <element signature="e#218#219#0" expanded="true" />
-                <element signature="e#245#246#0" expanded="true" />
-                <element signature="e#273#274#0" expanded="true" />
-                <element signature="e#299#300#0" expanded="true" />
+                <element signature="e#122#123#0" expanded="true" />
+                <element signature="e#150#151#0" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#227#228#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -82,9 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Lab_1/Main.java" />
-        <option value="$PROJECT_DIR$/src/Lab_2/Spider.java" />
-        <option value="$PROJECT_DIR$/src/Lab_2/Pet.java" />
         <option value="$PROJECT_DIR$/src/Lab_2/Cat.java" />
         <option value="$PROJECT_DIR$/src/Lab_2/Fish.java" />
         <option value="$PROJECT_DIR$/src/Lab_2/Fighter.java" />
@@ -133,6 +123,9 @@
         <option value="$PROJECT_DIR$/src/Lab_6/Main.java" />
         <option value="$PROJECT_DIR$/src/Lab_6/Map/Person.java" />
         <option value="$PROJECT_DIR$/src/Lab_6/Map/Main.java" />
+        <option value="$PROJECT_DIR$/src/Lab_7/RabbitRunnable.java" />
+        <option value="$PROJECT_DIR$/src/Lab_7/RabbitThread.java" />
+        <option value="$PROJECT_DIR$/src/Lab_7/Main.java" />
       </list>
     </option>
   </component>
@@ -150,6 +143,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -166,21 +160,13 @@
               <item name="AtelierulDigital2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="AtelierulDigital2019" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab_6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AtelierulDigital2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AtelierulDigital2019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab_6" type="462c0819:PsiDirectoryNode" />
-              <item name="Map" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab_7" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -203,7 +189,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Lab_6">
+  <component name="RunManager" selected="Application.Lab_7">
     <configuration name="Lab_1" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Lab_1.Main" />
       <module name="AtelierulDigital2019" />
@@ -246,6 +232,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab_7" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Lab_7.Main" />
+      <module name="AtelierulDigital2019" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Lab_1" />
       <item itemvalue="Application.Lab_2" />
@@ -253,6 +246,7 @@
       <item itemvalue="Application.Lab_4" />
       <item itemvalue="Application.Lab_5" />
       <item itemvalue="Application.Lab_6" />
+      <item itemvalue="Application.Lab_7" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -281,7 +275,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15100671" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15503356" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -290,12 +284,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932885" visible="true" weight="0.25354108" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.25354108" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.24504249" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.24504249" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50067115" side_tool="true" weight="0.2549575" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32719547" />
@@ -324,31 +318,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Lab_1/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lab_1/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
-          <folding>
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#485#486#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lab_1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Lab_2/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -729,10 +698,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lab_6/Merge/Main.java">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/Lab_6/Merge/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/Lab_6/Map/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lab_6/Leader.java">
+    <entry file="file://$PROJECT_DIR$/src/Lab_6/Map/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab_6/Leader/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lab_6/Leader/Leader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
@@ -742,36 +733,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lab_6/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Lab_7/RabbitRunnable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lab_6/Map/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/Lab_7/RabbitThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        <state relative-caret-position="170">
+          <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
           <folding>
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lab_6/Map/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Lab_7/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-          <folding>
-            <element signature="e#312#329#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>

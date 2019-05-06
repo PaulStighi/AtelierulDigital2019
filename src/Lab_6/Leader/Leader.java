@@ -1,4 +1,4 @@
-package Lab_6;
+package Lab_6.Leader;
 
 import java.util.Collections;
 import java.util.List;
